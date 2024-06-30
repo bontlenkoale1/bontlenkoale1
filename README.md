@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @bontlenkoale1
-- 🌱 I’m currently learning Software Engineering
+Hello 👋 I am Bridgette Nkoale
+
