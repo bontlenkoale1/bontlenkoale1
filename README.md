@@ -1,4 +1,4 @@
--👋 Hi, I’m Bridgette Nkoale (a.k.a. @bontlenkoale1🤓)
+-👋 Hi, I’m Bridgette Nkoale 
 
 -👀 I’m passionate about creating engaging and responsive frontends that come to life through design and interaction!
 
