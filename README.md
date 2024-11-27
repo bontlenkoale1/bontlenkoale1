@@ -11,8 +11,3 @@
  www.linkedin.com/in/bridgette-nkoale-7b17b9217
 
 -😄 Pronouns: She/Her
-
-
-bontlenkoale1/bontlenkoale1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
