@@ -76,9 +76,11 @@
 
 
 
+
+
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bontlenkoale1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bontlenkoale1&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
