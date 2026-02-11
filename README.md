@@ -88,11 +88,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bontlenkoale1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bontlenkoale1/bontlenkoale1/output/snake.svg" alt="Snake animation" />
-
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bontlenkoale1.bontlenkoale1&left_color=hotpink"  />
+</div>
+
+###
