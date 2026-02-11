@@ -1,12 +1,7 @@
 # 💫 About Me:
 👋🏽 Hi There ! My Name Is Bridgette Nkoale .<br> <br>👩🏽‍💻 I am a Software Engineer that specializes in Frontend. <br>🎰 I have built projects both in backend and as well as frontend. <br>🤹🏽‍♀️ There's nothing I enjoy as a frontend developer like seeing my work come to live and being creative, makes me feel like i'm Leonardo  da Vinci of styling lol .<br>🌱 I am currently collaborating and deep diving into REACT . <br>🤖 With the latest technologies and more to come, I hope I am ready to learn and grow as a frontend developer. <br>🦦 fun-fact : I love Marvel Movies !<br>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -97,7 +92,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bontlenkoale1/bontlenkoale1/output/snake.svg" alt="Snake animation" />
 
 ###
 
