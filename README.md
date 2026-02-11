@@ -90,10 +90,15 @@
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=bontlenkoale1&icon=7&color=10)](https://visitcount.itsvg.in)
 
 
+
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
