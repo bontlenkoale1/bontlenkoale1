@@ -82,7 +82,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bontlenkoale1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-@@ -22,6 +22,4 @@
+
 ![](https://github-contributor-stats.vercel.app/api?username=bontlenkoale1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
