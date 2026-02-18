@@ -76,10 +76,7 @@
 
 
 ### 🔝 Top Contributed Repo
-
-![](https://github-profile-trophy.vercel.app/?username=bontlenkoale1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-@@ -22,6 +22,4 @@
-![](https://github-contributor-stats.vercel.app/api?username=bontlenkoale1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+https://camo.githubusercontent.com/bb39afb7f0906c99c5ef322eb83bf17e6c90cf1b973648a9cefcda63379024a8/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d626f6e746c656e6b6f616c6531266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565
 
 
 
