@@ -57,12 +57,6 @@ AWS-re-Start-Journey/
 └── 📄 README.md                   
 ```
 
-Here's the replacement with **only the labs you've actually completed**:
-
----
-
-## ✅ **Completed Labs by Domain**
-
 <details open>
 <summary><b>📋 Completed Labs by Domain</b></summary>
 <br>
@@ -151,7 +145,6 @@ Here's the replacement with **only the labs you've actually completed**:
 
 ### ☁️ [AWS re/Start Learning Journey](https://github.com/bontlenkoale1/AWS-re-Start-Journey)
 *Comprehensive documentation of cloud competency development*
-- Structured repository of 30+ hands-on AWS labs across all core domains
 - Detailed implementation notes, architecture diagrams, and key takeaways
 - Progressive skill building from fundamentals to complex multi-service architectures
 
