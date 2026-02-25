@@ -57,47 +57,69 @@ AWS-re-Start-Journey/
 └── 📄 README.md                   
 ```
 
+Here's the replacement with **only the labs you've actually completed**:
+
+---
+
+## ✅ **Completed Labs by Domain**
+
 <details open>
 <summary><b>📋 Completed Labs by Domain</b></summary>
 <br>
 
 | Domain | Labs Completed | Key Learnings |
 |--------|----------------|---------------|
-| **Compute** | • EC2 Instance Launch & Configuration<br>• Lambda Function Creation<br>• Elastic Beanstalk Deployment | • User data scripts for instance bootstrapping<br>• Serverless compute models<br>• Platform-as-a-Service deployments |
-| **Networking** | • Custom VPC with Public/Private Subnets<br>• NAT Gateway Configuration<br>• VPC Peering Setup<br>• Route Table Optimization | • Multi-AZ architecture design<br>• Internet gateway vs NAT gateway<br>• Network segmentation strategies |
-| **Security** | • IAM User/Group/Role Creation<br>• Fine-grained Policy Development<br>• Security Group Rules<br>• KMS Key Management | • Least privilege access principles<br>• Multi-tier application isolation<br>• Encryption at rest and in transit |
-| **Storage** | • S3 Static Website Hosting<br>• EBS Volume Management<br>• EFS Configuration<br>• S3 Lifecycle Policies | • Storage class optimization<br>• Block vs file vs object storage<br>• Data lifecycle management |
-| **Databases** | • RDS Multi-AZ Deployment<br>• DynamoDB Table Design<br>• Database Migration Setup | • High availability configurations<br>• NoSQL vs SQL use cases<br>• Backup and restore strategies |
+| **Compute** | • Introduction to Amazon EC2 | • EC2 instance launch and configuration<br>• Security group assignment<br>• Instance connection methods (SSH)<br>• User data scripts for bootstrapping |
+| **Networking** | • Build VPC and Launch Web Server<br>• Create Subnets in a VPC<br>• Networking Resources for a VPC<br>• Public and Private IP Addresses<br>• Internet Protocol Troubleshooting Commands | • Custom VPC design with public/private subnets<br>• Route table configuration<br>• Internet gateway setup<br>• IP addressing schemes in AWS<br>• Network diagnostic tools and techniques |
+| **Databases** | • Build Database Server with App Integration<br>• Database Table Operations<br>• Introduction to Amazon Aurora<br>• Selecting Data from a Database<br>• Working with Functions | • RDS instance creation and configuration<br>• CRUD operations on database tables<br>• Aurora features and use cases<br>• SQL queries for data retrieval<br>• Database functions and procedures |
+| **Security** | • Network Hardening (276)<br>• Systems Hardening (277)<br>• Introduction to IAM (279) | • Security group and NACL configuration<br>• EC2 instance security best practices<br>• IAM users, groups, and policies<br>• Least privilege access principles |
+
+**Total: 14 Completed Labs** | 3 In Progress
 
 </details>
+
+---
+
+## 🛠️ Featured Lab Implementations
 
 <details>
 <summary><b>🛠️ Featured Lab Implementations</b></summary>
 <br>
 
 ### **🌐 Build VPC and Launch Web Server**
-- Designed a custom VPC with public/private subnets across two availability zones
-- Configured internet gateway for public subnet and NAT gateway for private subnet
+- Designed a custom VPC with public/private subnets
+- Configured route tables and internet gateway
 - Launched EC2 instances in both subnets with appropriate security groups
-- Implemented load balancer for high availability
+- Implemented network segmentation for multi-tier architecture
 
 ### **🔐 Introduction to Identity and Access Management (IAM)**
-- Created granular IAM policies following least privilege methodology
-- Established cross-account access roles
-- Implemented password policies and MFA for root and IAM users
+- Created IAM users, groups, and custom policies
+- Implemented password policies and MFA for enhanced security
 - Configured IAM roles for EC2 service integration
+- Applied least privilege methodology to all policy creation
 
-### **📊 Scale and Load Balance Architecture**
-- Configured Application Load Balancer with target groups
-- Implemented Auto Scaling groups with launch templates
-- Set up CloudWatch alarms for scaling policies
-- Tested fault tolerance through instance termination scenarios
+### **🗄️ Build Database Server with Application Integration**
+- Launched RDS instance with appropriate configuration
+- Connected application to database server
+- Implemented secure database access patterns
+- Practiced database interaction from application layer
 
-### **🖥️ Working with Amazon EBS**
-- Created and attached EBS volumes to EC2 instances
-- Implemented snapshot strategies for backup and recovery
-- Configured IOPS-optimized volumes for database workloads
-- Practiced volume resizing and migration between AZs
+### **🌐 Networking Fundamentals Series**
+- **Create Subnets in a VPC**: Planned and implemented CIDR blocks for network segmentation
+- **Networking Resources**: Configured route tables for traffic management
+- **IP Addressing**: Distinguished between public and private IP use cases
+- **Troubleshooting**: Applied diagnostic commands for network issue resolution
+
+### **💾 Database Operations Series**
+- **Database Table Operations**: Performed CRUD operations and table management
+- **Introduction to Amazon Aurora**: Explored Aurora architecture and features
+- **Selecting Data from a Database**: Executed complex SQL queries
+- **Working with Functions**: Implemented stored procedures and functions
+
+### **🔒 Security Fundamentals**
+- **Network Hardening**: Configured security groups and network ACLs
+- **Systems Hardening**: Implemented EC2 instance security best practices
+- **IAM Fundamentals**: Established identity management foundation
 
 </details>
 
