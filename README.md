@@ -44,14 +44,17 @@ I maintain a comprehensive [**learning repository**](https://github.com/bontlenk
 
 ```
 AWS-re-Start-Journey/
-├── 📁 AWS Labs/                 # Hands-on exercises by domain
-│   ├── 📁 Compute/               # EC2, Lambda configurations
-│   ├── 📁 Databases/             # RDS, Aurora implementations
-│   ├── 📁 Networking/            # VPC designs, subnet configurations
-│   └── 📁 Security/              # IAM policies, security group rules
-├── 📁 AWS Projects/              # Comprehensive architecture implementations
-│   └── e-commerce-architecture/  # Multi-tier AWS deployment
-└── 📄 README.md                   # Learning journey documentation
+├── 📁 AWS Certification & Badges/
+    ├── 📁 SimuLearn/
+├── 📁 AWS Labs/                 
+│   ├── 📁 Compute/               
+│   ├── 📁 Databases/            
+│   ├── 📁 Networking/            
+│   └── 📁 Security/             
+├── 📁 AWS Projects/    
+│   └── e-commerce-architecture/  
+    └── freshly_ground_static_website_S3/  
+└── 📄 README.md                   
 ```
 
 <details open>
