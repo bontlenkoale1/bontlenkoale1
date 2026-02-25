@@ -175,10 +175,6 @@ AWS-re-Start-Journey/
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bontlenkoale1&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bontlenkoale1&layout=compact&theme=city_lights&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bontlenkoale1&theme=city_lights&hide_border=true" alt="GitHub Streak" />
