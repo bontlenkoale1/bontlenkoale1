@@ -68,7 +68,6 @@ AWS-re-Start-Journey/
 | **Databases** | • Build Database Server with App Integration<br>• Database Table Operations<br>• Introduction to Amazon Aurora<br>• Selecting Data from a Database<br>• Working with Functions | • RDS instance creation and configuration<br>• CRUD operations on database tables<br>• Aurora features and use cases<br>• SQL queries for data retrieval<br>• Database functions and procedures |
 | **Security** | • Network Hardening (276)<br>• Systems Hardening (277)<br>• Introduction to IAM (279) | • Security group and NACL configuration<br>• EC2 instance security best practices<br>• IAM users, groups, and policies<br>• Least privilege access principles |
 
-**Total: 14 Completed Labs** | 3 In Progress
 
 </details>
 
