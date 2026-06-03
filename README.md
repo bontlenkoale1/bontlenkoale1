@@ -8,9 +8,13 @@ I'm a **Software Engineer and AWS Certified Cloud Practitioner** with a backgrou
 
 I am passionate about cloud infrastructure, security, networking, and designing scalable solutions on AWS while continuing to expand my expertise toward cloud engineering and architecture roles.
 
-📍 **Current Focus:** Cloud Engineering | AWS Solutions Architect Preparation  
-☁️ **Certification:** AWS Certified Cloud Practitioner (Passed: 4 May 2026)  
-🎯 **Goal:** Launch a career in Cloud Engineering, Cloud Support, or Solutions Architecture
+
+ **Current Focus:** Cloud Engineering | AWS Solutions Architect Preparation  
+
+ **Certification:** AWS Certified Cloud Practitioner (Passed: 4 May 2026)  
+ 
+ **Goal:** Launch a career in Cloud Engineering, Cloud Support, or Solutions Architecture
+
 ---
 
 ## 🎓 AWS re/Start Graduate
