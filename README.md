@@ -1,27 +1,26 @@
 # 👋 Hi, I'm Bridgette Nkoale
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=232F3E&center=true&vCenter=true&width=600&lines=AWS+re%2FStart+Participant;Cloud+Practitioner+in+Training;Software+Engineer+%7C+Frontend+Background;Building+Cloud+Expertise" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=232F3E&center=true&vCenter=true&width=700&lines=AWS+Certified+Cloud+Practitioner;AWS+re%2FStart+Graduate;Cloud+Engineer+%7C+Software+Engineer;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
 </div>
 
-<img align="right" height="160" src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif?cid=790b7611k5dnn5f5yw5yf5y5f5y5f5y5f5y5f5y5f5y5&rid=giphy.gif&ct=g" alt="Cloud computing animation" />
+I'm a **Software Engineer and AWS Certified Cloud Practitioner** with a background in frontend development and hands-on cloud computing experience gained through the **AWS re/Start Program**.
 
-I'm a **Software Engineer** with a background in frontend development, now focused on building cloud expertise through the **AWS re/Start Program**. I'm transitioning into cloud engineering and architecture while leveraging my full-stack experience.
+I am passionate about cloud infrastructure, security, networking, and designing scalable solutions on AWS while continuing to expand my expertise toward cloud engineering and architecture roles.
 
-📍 **Current Focus:** AWS re/Start Program | Cloud Foundations  
-🌱 **Learning Path:** AWS Certified Cloud Practitioner → Solutions Architect  
-🎯 **Goal:** Establish a career in cloud engineering
-
+📍 **Current Focus:** Cloud Engineering | AWS Solutions Architect Preparation  
+☁️ **Certification:** AWS Certified Cloud Practitioner (Passed: 4 May 2026)  
+🎯 **Goal:** Launch a career in Cloud Engineering, Cloud Support, or Solutions Architecture
 ---
 
-## 🏗️ AWS re/Start Program
+## 🎓 AWS re/Start Graduate
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS%20re%2FStart-Participant-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-I'm actively engaged in the **AWS re/Start program**, an intensive cloud skills training that combines classroom instruction with hands-on labs, building expertise across:
+I successfully completed the AWS re/Start Program, an intensive cloud computing and career development program that provided hands-on experience across AWS services, networking, Linux, security, databases, and cloud architecture principles.
 
 ### 📚 Cloud Competencies
 
@@ -164,13 +163,48 @@ AWS-re-Start-Journey/
 
 ## 🎯 Learning Objectives
 
-- [ ] Complete all AWS re/Start program modules with hands-on labs
-- [ ] Pass **AWS Certified Cloud Practitioner** exam
-- [ ] Build 3 comprehensive cloud architecture projects
-- [ ] Earn SimuLearn badges across all domains
-- [ ] Begin **AWS Solutions Architect – Associate** preparation
+- [✓] Complete all AWS re/Start program modules with hands-on labs
+- [✓] Pass **AWS Certified Cloud Practitioner** exam
+- [✓] Build 3 comprehensive cloud architecture projects
+- [✓] Earn SimuLearn badges across all domains
+- [✓] Begin **AWS Solutions Architect – Associate** preparation
 
 ---
+## 🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+</div>
+
+### AWS Certified Cloud Practitioner
+📅 Earned: **4 May 2026**
+
+Validated knowledge of:
+
+- AWS Global Infrastructure
+- Cloud Architecture Principles
+- Security & Compliance
+- AWS Core Services
+- Billing & Pricing Models
+- Cloud Adoption Best Practices
+
+### AWS re/Start Graduate
+Successfully completed AWS's workforce development program focused on:
+
+- Cloud Computing Fundamentals
+- Linux
+- Networking
+- Security
+- Python
+- AWS Services
+- Professional Development
+
+
+
+---
+
 
 ## 📊 GitHub Activity
 
@@ -200,5 +234,5 @@ AWS-re-Start-Journey/
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bontlenkoale1.bontlenkoale1&left_color=232F3E&right_color=FF9900" />
   
   <br><br>
-  <i>Building cloud expertise, one lab at a time. ☁️</i>
+<i>AWS Certified Cloud Practitioner | AWS re/Start Graduate | Building scalable cloud solutions ☁️</i>
 </div>
