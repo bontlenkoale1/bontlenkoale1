@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bridgette Nkoale
+# 👋 Hi There, I'm Bridgette Nkoale!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=232F3E&center=true&vCenter=true&width=700&lines=AWS+Certified+Cloud+Practitioner;AWS+re%2FStart+Graduate;Cloud+Engineer+%7C+Software+Engineer;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
